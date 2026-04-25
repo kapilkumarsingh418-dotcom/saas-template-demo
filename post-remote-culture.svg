@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Remote culture article placeholder</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="140" y="140" width="920" height="520" rx="36" fill="#0f1a2d" opacity="0.88"/>
+  <rect x="190" y="200" width="200" height="260" rx="28" fill="#18304b"/>
+  <rect x="420" y="200" width="200" height="260" rx="28" fill="#18304b"/>
+  <rect x="650" y="200" width="200" height="260" rx="28" fill="#18304b"/>
+  <rect x="880" y="200" width="130" height="260" rx="28" fill="#18304b"/>
+  <g fill="#e0f2fe">
+    <circle cx="290" cy="285" r="46"/>
+    <circle cx="520" cy="285" r="46"/>
+    <circle cx="750" cy="285" r="46"/>
+    <circle cx="945" cy="285" r="40"/>
+  </g>
+  <rect x="220" y="370" width="140" height="14" rx="7" fill="#67e8f9"/>
+  <rect x="450" y="370" width="140" height="14" rx="7" fill="#67e8f9"/>
+  <rect x="680" y="370" width="140" height="14" rx="7" fill="#67e8f9"/>
+  <text x="200" y="610" fill="#ecfeff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Remote-first team culture</text>
+</svg>

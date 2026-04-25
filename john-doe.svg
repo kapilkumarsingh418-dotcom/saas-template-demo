@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title">
+  <title id="title">John Doe placeholder portrait</title>
+  <rect width="600" height="600" fill="#dbeafe"/>
+  <circle cx="300" cy="300" r="240" fill="#1d4ed8"/>
+  <circle cx="300" cy="235" r="100" fill="#f8d7b8"/>
+  <path d="M180 470c26-84 91-126 120-126s94 42 120 126" fill="#0f172a"/>
+  <path d="M205 225c18-55 54-90 95-90 46 0 84 29 104 85-36 18-75 29-119 29-28 0-55-7-80-24z" fill="#111827"/>
+  <text x="300" y="555" text-anchor="middle" fill="#eff6ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">JD</text>
+</svg>

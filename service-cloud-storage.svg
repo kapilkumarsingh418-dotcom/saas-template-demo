@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Cloud storage service placeholder</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="130" y="120" width="940" height="560" rx="34" fill="#0a1220" opacity="0.88"/>
+  <path d="M450 420c-64 0-116-50-116-112 0-55 42-102 98-110 23-58 80-98 147-98 79 0 145 55 162 129 54 2 97 46 97 100 0 56-45 101-101 101H450z" fill="#e0f2fe"/>
+  <path d="M600 270v155m0 0l-56-56m56 56l56-56" stroke="#0f766e" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="190" y="610" fill="#ecfeff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Secure cloud storage</text>
+</svg>

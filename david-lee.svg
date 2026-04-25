@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title">
+  <title id="title">David Lee placeholder portrait</title>
+  <rect width="600" height="600" fill="#dcfce7"/>
+  <circle cx="300" cy="300" r="240" fill="#16a34a"/>
+  <circle cx="300" cy="235" r="100" fill="#f8d7b8"/>
+  <path d="M185 470c26-84 89-126 115-126 27 0 90 42 115 126" fill="#1f2937"/>
+  <path d="M205 225c20-60 58-94 95-94 45 0 82 31 100 89-16 11-47 22-90 27-42 5-78 1-105-22z" fill="#14532d"/>
+  <text x="300" y="555" text-anchor="middle" fill="#f0fdf4" font-family="Arial, sans-serif" font-size="34" font-weight="700">DL</text>
+</svg>

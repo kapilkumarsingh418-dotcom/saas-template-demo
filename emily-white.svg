@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title">
+  <title id="title">Emily White placeholder portrait</title>
+  <rect width="600" height="600" fill="#cffafe"/>
+  <circle cx="300" cy="300" r="240" fill="#0891b2"/>
+  <circle cx="300" cy="235" r="100" fill="#f8d7b8"/>
+  <path d="M185 470c28-86 86-126 115-126s87 40 115 126" fill="#1e293b"/>
+  <path d="M200 233c12-68 52-112 101-112 48 0 88 42 103 108-27 17-61 26-102 26-40 0-74-7-102-22z" fill="#164e63"/>
+  <text x="300" y="555" text-anchor="middle" fill="#ecfeff" font-family="Arial, sans-serif" font-size="34" font-weight="700">EW</text>
+</svg>

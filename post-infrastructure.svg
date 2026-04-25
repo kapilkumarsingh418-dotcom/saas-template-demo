@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Infrastructure article placeholder</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="140" y="140" width="920" height="520" rx="36" fill="#0b1220" opacity="0.84"/>
+  <rect x="205" y="210" width="240" height="18" rx="9" fill="#93c5fd"/>
+  <rect x="205" y="252" width="360" height="14" rx="7" fill="#cbd5e1" opacity="0.6"/>
+  <g fill="#1d4ed8">
+    <rect x="205" y="332" width="110" height="200" rx="22"/>
+    <rect x="345" y="292" width="110" height="240" rx="22"/>
+    <rect x="485" y="252" width="110" height="280" rx="22"/>
+    <rect x="625" y="222" width="110" height="310" rx="22"/>
+  </g>
+  <rect x="795" y="220" width="190" height="260" rx="28" fill="#13233d"/>
+  <rect x="825" y="260" width="130" height="18" rx="9" fill="#60a5fa"/>
+  <rect x="825" y="304" width="90" height="90" rx="20" fill="#22d3ee"/>
+  <text x="205" y="610" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="42" font-weight="700">Scale your infrastructure</text>
+</svg>
